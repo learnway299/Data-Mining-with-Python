@@ -424,5 +424,5 @@ Cosine(A,B)= sqrt(P(A|B)P(B|A))= 0.754<br>
 则我们可以认定A为导师，B、C、D、E为A指导的学生。<br>
 2.若要求得指导的近似周期，我们需要在求频繁项集时，将发表的日期作为属性假如到事务中，如果我们已确定A为导师，B为学生，
 并且他们的合著次数满足频繁项集的支持度，我们需要计算A和B合著论文中的最近日期和最早日期，最近日期-最早日期+ 1~2年=近似的指导周期。<br>
-[参考博客](https://github.com/findmyway/DBLP-Coauthor)
+[参考博客](https://github.com/findmyway/DBLP-Coauthor)<br>
 [my blog](https://juejin.cn/post/6953853606043287582/)
