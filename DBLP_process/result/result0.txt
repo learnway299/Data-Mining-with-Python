@@ -1,0 +1,385 @@
+                  authorA	                  authorB	        authorC	Sup(A,B,C)	Sup(A)	Sup(B)	Sup(C)	Con(A)	Con(B)	Con(C)	MinCon	MaxCon
+     Makoto Takizawa 0001	           Tomoya Enokido	               	       477	   923	   483	     0	0.5168	0.9876	0.0000	0.5168	0.9876
+           Irith Pomeranz	        Sudhakar M. Reddy	               	       433	   675	   651	     0	0.6415	0.6651	0.0000	0.6415	0.6651
+              Henri Prade	            Didier Dubois	               	       398	   653	   582	     0	0.6095	0.6838	0.0000	0.6095	0.6838
+          Yonghui Li 0001	           Branka Vucetic	               	       374	   575	   572	     0	0.6504	0.6538	0.0000	0.6504	0.6538
+          David T. Blaauw	         Dennis Sylvester	               	       365	   554	   464	     0	0.6588	0.7866	0.0000	0.6588	0.7866
+        Bjrn E. Ottersten	       Symeon Chatzinotas	               	       351	   764	   457	     0	0.4594	0.7681	0.0000	0.4594	0.7681
+            Shiguang Shan	               Xilin Chen	               	       331	   424	   488	     0	0.7807	0.6783	0.0000	0.6783	0.7807
+      Oscar Castillo 0001	           Patricia Melin	               	       331	   679	   527	     0	0.4875	0.6281	0.0000	0.4875	0.6281
+              Jie Lu 0001	     Guangquan Zhang 0001	               	       315	   406	   331	     0	0.7759	0.9517	0.0000	0.7759	0.9517
+            Nadeem Javaid	          Zahoor Ali Khan	               	       303	   746	   324	     0	0.4062	0.9352	0.0000	0.4062	0.9352
+        Divyakant Agrawal	            Amr El Abbadi	               	       300	   399	   379	     0	0.7519	0.7916	0.0000	0.7519	0.7916
+           Masayuki Inaba	                Kei Okada	               	       299	   471	   306	     0	0.6348	0.9771	0.0000	0.6348	0.9771
+                Jiajun Bu	           Chun Chen 0001	               	       290	   365	   384	     0	0.7945	0.7552	0.0000	0.7552	0.7945
+         Richa Singh 0001	             Mayank Vatsa	               	       284	   291	   288	     0	0.9759	0.9861	0.0000	0.9759	0.9861
+         Sridha Sridharan	           Clinton Fookes	               	       266	   507	   303	     0	0.5247	0.8779	0.0000	0.5247	0.8779
+         Juan-Carlos Cano	           Pietro Manzoni	               	       259	   303	   322	     0	0.8548	0.8043	0.0000	0.8043	0.8548
+       Saket Saurabh 0001	        Daniel Lokshtanov	               	       255	   534	   357	     0	0.4775	0.7143	0.0000	0.4775	0.7143
+           Takahiro Ogawa	            Miki Haseyama	               	       246	   253	   336	     0	0.9723	0.7321	0.0000	0.7321	0.9723
+          Massimo Poncino	             Enrico Macii	               	       240	   291	   413	     0	0.8247	0.5811	0.0000	0.5811	0.8247
+               Irwin King	           Michael R. Lyu	               	       238	   389	   574	     0	0.6118	0.4146	0.0000	0.4146	0.6118
+        Vojislav B. Misic	          Jelena V. Misic	               	       237	   268	   321	     0	0.8843	0.7383	0.0000	0.7383	0.8843
+           Shojiro Nishio	            Takahiro Hara	               	       235	   371	   379	     0	0.6334	0.6201	0.0000	0.6201	0.6334
+             Yong Li 0008	               Depeng Jin	               	       231	   414	   291	     0	0.5580	0.7938	0.0000	0.5580	0.7938
+             Zhisheng Niu	               Sheng Zhou	               	       229	   393	   336	     0	0.5827	0.6815	0.0000	0.5827	0.6815
+           Min Zhang 0006	              Shaoping Ma	               	       224	   247	   251	     0	0.9069	0.8924	0.0000	0.8924	0.9069
+          Giovanni Abramo	  Ciriaco Andrea D'Angelo	               	       223	   228	   230	     0	0.9781	0.9696	0.0000	0.9696	0.9781
+              Shaojun Wei	                Leibo Liu	               	       219	   257	   253	     0	0.8521	0.8656	0.0000	0.8521	0.8656
+              Shaojun Wei	               Shouyi Yin	               	       218	   257	   233	     0	0.8482	0.9356	0.0000	0.8482	0.9356
+            Hong Gao 0001	        Jianzhong Li 0001	               	       217	   267	   421	     0	0.8127	0.5154	0.0000	0.5154	0.8127
+              Shaoping Ma	           Yiqun Liu 0001	               	       216	   251	   246	     0	0.8606	0.8780	0.0000	0.8606	0.8780
+           M. N. S. Swamy	           M. Omair Ahmad	               	       216	   385	   357	     0	0.5610	0.6050	0.0000	0.5610	0.6050
+           Zhiwen Yu 0001	             Bin Guo 0001	               	       214	   333	   248	     0	0.6426	0.8629	0.0000	0.6426	0.8629
+             Shoji Hirano	          Shusaku Tsumoto	               	       212	   220	   418	     0	0.9636	0.5072	0.0000	0.5072	0.9636
+            Yusuke Nojima	          Hisao Ishibuchi	               	       212	   238	   493	     0	0.8908	0.4300	0.0000	0.4300	0.8908
+                Zebo Peng	               Petru Eles	               	       210	   264	   239	     0	0.7955	0.8787	0.0000	0.7955	0.8787
+               Iadh Ounis	          Craig Macdonald	               	       208	   316	   235	     0	0.6582	0.8851	0.0000	0.6582	0.8851
+           Min Zhang 0006	           Yiqun Liu 0001	               	       208	   247	   246	     0	0.8421	0.8455	0.0000	0.8421	0.8455
+           Yongming Huang	                Luxi Yang	               	       208	   354	   349	     0	0.5876	0.5960	0.0000	0.5876	0.5960
+               Shouyi Yin	                Leibo Liu	               	       207	   233	   253	     0	0.8884	0.8182	0.0000	0.8182	0.8884
+              Shaojun Wei	               Shouyi Yin	      Leibo Liu	       206	   257	   233	   253	0.8016	0.8841	0.8142	0.8016	0.8841
+                  Tao Qin	              Tie-Yan Liu	               	       204	   319	   389	     0	0.6395	0.5244	0.0000	0.5244	0.6395
+           Min Zhang 0006	              Shaoping Ma	 Yiqun Liu 0001	       202	   247	   251	   246	0.8178	0.8048	0.8211	0.8048	0.8211
+ Luiza de Macedo Mourelle	             Nadia Nedjah	               	       201	   202	   243	     0	0.9950	0.8272	0.0000	0.8272	0.9950
+           Min Huang 0001	        Xingwei Wang 0001	               	       199	   237	   370	     0	0.8397	0.5378	0.0000	0.5378	0.8397
+               Stan Z. Li	                 Zhen Lei	               	       199	   439	   288	     0	0.4533	0.6910	0.0000	0.4533	0.6910
+                Kaoru Ota	           Mianxiong Dong	               	       194	   220	   286	     0	0.8818	0.6783	0.0000	0.6783	0.8818
+              Maosong Sun	         Zhiyuan Liu 0001	               	       194	   347	   280	     0	0.5591	0.6929	0.0000	0.5591	0.6929
+       Hiroshi Saruwatari	         Kiyohiro Shikano	               	       192	   351	   338	     0	0.5470	0.5680	0.0000	0.5470	0.5680
+            Joel H. Saltz	            Tahsin M. Kur	               	       190	   376	   215	     0	0.5053	0.8837	0.0000	0.5053	0.8837
+            Huazhong Yang	             Yu Wang 0002	               	       190	   447	   294	     0	0.4251	0.6463	0.0000	0.4251	0.6463
+    Nora Cuppens-Boulahia	           Frdric Cuppens	               	       189	   192	   280	     0	0.9844	0.6750	0.0000	0.6750	0.9844
+        Tomohiro Tanikawa	         Michitaka Hirose	               	       188	   192	   353	     0	0.9792	0.5326	0.0000	0.5326	0.9792
+       Caetano Traina Jr.	        Agma J. M. Traina	               	       188	   248	   242	     0	0.7581	0.7769	0.0000	0.7581	0.7769
+          Fuchun Sun 0001	         Huaping Liu 0001	               	       185	   447	   215	     0	0.4139	0.8605	0.0000	0.4139	0.8605
+         Masao Yanagisawa	            Nozomu Togawa	               	       184	   201	   230	     0	0.9154	0.8000	0.0000	0.8000	0.9154
+Sabrina De Capitani di Vimercati	      Pierangela Samarati	               	       184	   221	   270	     0	0.8326	0.6815	0.0000	0.6815	0.8326
+         Flemming Nielson	       Hanne Riis Nielson	               	       183	   226	   201	     0	0.8097	0.9104	0.0000	0.8097	0.9104
+             Didier Colle	           Mario Pickavet	               	       183	   232	   215	     0	0.7888	0.8512	0.0000	0.7888	0.8512
+            Danny Krizanc	       Evangelos Kranakis	               	       180	   260	   426	     0	0.6923	0.4225	0.0000	0.4225	0.6923
+           Nicola Santoro	          Paola Flocchini	               	       177	   314	   227	     0	0.5637	0.7797	0.0000	0.5637	0.7797
+       Broderick Crawford	        Ricardo Soto 0001	               	       176	   216	   201	     0	0.8148	0.8756	0.0000	0.8148	0.8756
+              Jianyu Yang	              Yulin Huang	               	       175	   348	   201	     0	0.5029	0.8706	0.0000	0.5029	0.8706
+           Yueting Zhuang	              Fei Wu 0001	               	       175	   376	   272	     0	0.4654	0.6434	0.0000	0.4654	0.6434
+     Gennady L. Andrienko	     Natalia V. Andrienko	               	       174	   196	   180	     0	0.8878	0.9667	0.0000	0.8878	0.9667
+              Yasushi Mae	              Tatsuo Arai	               	       174	   192	   282	     0	0.9062	0.6170	0.0000	0.6170	0.9062
+        Thomas C. Schmidt	         Matthias Whlisch	               	       174	   240	   202	     0	0.7250	0.8614	0.0000	0.7250	0.8614
+             Lei Guo 0002	             Tianming Liu	               	       173	   244	   297	     0	0.7090	0.5825	0.0000	0.5825	0.7090
+             Hideo Bannai	         Shunsuke Inenaga	               	       172	   225	   249	     0	0.7644	0.6908	0.0000	0.6908	0.7644
+            Pasquale Lops	        Giovanni Semeraro	               	       171	   195	   347	     0	0.8769	0.4928	0.0000	0.4928	0.8769
+               Paloma Daz	             Ignacio Aedo	               	       171	   216	   200	     0	0.7917	0.8550	0.0000	0.7917	0.8550
+          Masayuki Takeda	         Shunsuke Inenaga	               	       171	   241	   249	     0	0.7095	0.6867	0.0000	0.6867	0.7095
+    Hiroki Nishiyama 0001	                 Nei Kato	               	       170	   179	   407	     0	0.9497	0.4177	0.0000	0.4177	0.9497
+        Wenjie Zhang 0001	          Xuemin Lin 0001	               	       170	   195	   412	     0	0.8718	0.4126	0.0000	0.4126	0.8718
+                Hongli Xu	           Liusheng Huang	               	       170	   218	   408	     0	0.7798	0.4167	0.0000	0.4167	0.7798
+         Hiroshi G. Okuno	            Tetsuya Ogata	               	       170	   380	   301	     0	0.4474	0.5648	0.0000	0.4474	0.5648
+                Insup Lee	            Oleg Sokolsky	               	       169	   414	   210	     0	0.4082	0.8048	0.0000	0.4082	0.8048
+             Hajime Asama	        Atsushi Yamashita	               	       169	   356	   219	     0	0.4747	0.7717	0.0000	0.4747	0.7717
+           Shu-Ching Chen	            Mei-Ling Shyu	               	       169	   319	   257	     0	0.5298	0.6576	0.0000	0.5298	0.6576
+        Hiroshi Kawaguchi	       Masahiko Yoshimoto	               	       168	   195	   186	     0	0.8615	0.9032	0.0000	0.8615	0.9032
+              Luc Martens	              Wout Joseph	               	       167	   217	   203	     0	0.7696	0.8227	0.0000	0.7696	0.8227
+            Bo Cheng 0001	            Junliang Chen	               	       167	   203	   324	     0	0.8227	0.5154	0.0000	0.5154	0.8227
+            Jie Zhou 0001	                 Jiwen Lu	               	       167	   312	   309	     0	0.5353	0.5405	0.0000	0.5353	0.5405
+      Patrick Girard 0001	           Arnaud Virazel	               	       166	   251	   169	     0	0.6614	0.9822	0.0000	0.6614	0.9822
+             Simon Denman	           Clinton Fookes	               	       165	   178	   303	     0	0.9270	0.5446	0.0000	0.5446	0.9270
+            Takuji Narumi	         Michitaka Hirose	               	       165	   180	   353	     0	0.9167	0.4674	0.0000	0.4674	0.9167
+             Dacheng Yang	           Xin Zhang 0001	               	       165	   355	   205	     0	0.4648	0.8049	0.0000	0.4648	0.8049
+        Ronald M. Summers	              Jianhua Yao	               	       164	   345	   241	     0	0.4754	0.6805	0.0000	0.4754	0.6805
+          Keikichi Hirose	        Nobuaki Minematsu	               	       162	   294	   252	     0	0.5510	0.6429	0.0000	0.5510	0.6429
+              Mei Yu 0001	             Gangyi Jiang	               	       161	   165	   219	     0	0.9758	0.7352	0.0000	0.7352	0.9758
+          Fosca Giannotti	           Dino Pedreschi	               	       161	   251	   255	     0	0.6414	0.6314	0.0000	0.6314	0.6414
+           Rainer Leupers	             Gerd Ascheid	               	       160	   271	   377	     0	0.5904	0.4244	0.0000	0.4244	0.5904
+     Edwin Hsing-Mean Sha	           Qingfeng Zhuge	               	       158	   389	   179	     0	0.4062	0.8827	0.0000	0.4062	0.8827
+                Huawei Li	          Xiaowei Li 0001	               	       158	   216	   350	     0	0.7315	0.4514	0.0000	0.4514	0.7315
+      Eugenio Di Sciascio	          Tommaso Di Noia	               	       158	   278	   243	     0	0.5683	0.6502	0.0000	0.5683	0.6502
+         Manoj Singh Gaur	              Vijay Laxmi	               	       157	   195	   169	     0	0.8051	0.9290	0.0000	0.8051	0.9290
+             Hideo Bannai	          Masayuki Takeda	               	       157	   225	   241	     0	0.6978	0.6515	0.0000	0.6515	0.6978
+           Stefano Tubaro	            Augusto Sarti	               	       156	   335	   241	     0	0.4657	0.6473	0.0000	0.4657	0.6473
+        Juan Manuel Grriz	       Javier Ramrez 0001	               	       155	   189	   228	     0	0.8201	0.6798	0.0000	0.6798	0.8201
+             Pl Halvorsen	          Carsten Griwodz	               	       155	   263	   214	     0	0.5894	0.7243	0.0000	0.5894	0.7243
+             Antonio Iera	       Antonella Molinaro	               	       155	   237	   271	     0	0.6540	0.5720	0.0000	0.5720	0.6540
+           Roman Senkerik	          Michal Pluhacek	               	       154	   229	   158	     0	0.6725	0.9747	0.0000	0.6725	0.9747
+             Juan de Lara	            Esther Guerra	               	       154	   253	   161	     0	0.6087	0.9565	0.0000	0.6087	0.9565
+        Jordi Prez-Romero	            Oriol Sallent	               	       154	   196	   185	     0	0.7857	0.8324	0.0000	0.7857	0.8324
+        Andrea Passarella	              Marco Conti	               	       154	   198	   366	     0	0.7778	0.4208	0.0000	0.4208	0.7778
+          Sylvain Guilley	          Jean-Luc Danger	               	       154	   285	   212	     0	0.5404	0.7264	0.0000	0.5404	0.7264
+          Katsuhiro Honda	              Akira Notsu	               	       153	   197	   156	     0	0.7766	0.9808	0.0000	0.7766	0.9808
+ Andrea C. Arpaci-Dusseau	  Remzi H. Arpaci-Dusseau	               	       153	   162	   163	     0	0.9444	0.9387	0.0000	0.9387	0.9444
+  Narayanan Vijaykrishnan	          Mary Jane Irwin	               	       153	   250	   359	     0	0.6120	0.4262	0.0000	0.4262	0.6120
+              Shingo Mabu	          Kotaro Hirasawa	               	       151	   188	   266	     0	0.8032	0.5677	0.0000	0.5677	0.8032
+        Farokh B. Bastani	               I-Ling Yen	               	       151	   212	   228	     0	0.7123	0.6623	0.0000	0.6623	0.7123
+            Xiangming Wen	              Zhaoming Lu	               	       150	   209	   159	     0	0.7177	0.9434	0.0000	0.7177	0.9434
+           Gianluca Setti	         Riccardo Rovatti	               	       150	   187	   178	     0	0.8021	0.8427	0.0000	0.8021	0.8427
+           Xiaojiang Chen	              Dingyi Fang	               	       150	   178	   194	     0	0.8427	0.7732	0.0000	0.7732	0.8427
+                Wynne Hsu	              Mong-Li Lee	               	       150	   193	   213	     0	0.7772	0.7042	0.0000	0.7042	0.7772
+        Yoshitaka Shibata	            Noriki Uchida	               	       149	   360	   167	     0	0.4139	0.8922	0.0000	0.4139	0.8922
+          Louise E. Moser	      P. M. Melliar-Smith	               	       149	   186	   169	     0	0.8011	0.8817	0.0000	0.8011	0.8817
+        Tetsuya Takiguchi	              Yasuo Ariki	               	       149	   176	   240	     0	0.8466	0.6208	0.0000	0.6208	0.8466
+              Weiwei Yang	              Yueming Cai	               	       149	   233	   300	     0	0.6395	0.4967	0.0000	0.4967	0.6395
+               Pui-In Mak	        Rui Paulo Martins	               	       148	   174	   338	     0	0.8506	0.4379	0.0000	0.4379	0.8506
+             Hideo Bannai	          Masayuki Takeda	Shunsuke Inenaga	       148	   225	   241	   249	0.6578	0.6141	0.5944	0.5944	0.6578
+              Eric Rogers	      Krzysztof Galkowski	               	       147	   261	   184	     0	0.5632	0.7989	0.0000	0.5632	0.7989
+             Chunhong Pan	            Shiming Xiang	               	       147	   274	   193	     0	0.5365	0.7617	0.0000	0.5365	0.7617
+       Hironori Washizaki	        Yoshiaki Fukazawa	               	       147	   217	   219	     0	0.6774	0.6712	0.0000	0.6712	0.6774
+          Heang-Ping Chan	     Lubomir M. Hadjiiski	               	       146	   171	   148	     0	0.8538	0.9865	0.0000	0.8538	0.9865
+             Guido Boella	Leendert W. N. van der Torre	               	       146	   265	   318	     0	0.5509	0.4591	0.0000	0.4591	0.5509
+             Nader Karimi	          Shadrokh Samavi	               	       145	   152	   182	     0	0.9539	0.7967	0.0000	0.7967	0.9539
+        Tomohiro Tanikawa	            Takuji Narumi	               	       145	   192	   180	     0	0.7552	0.8056	0.0000	0.7552	0.8056
+        Tomohiro Tanikawa	            Takuji Narumi	Michitaka Hirose	       145	   192	   180	   353	0.7552	0.8056	0.4108	0.4108	0.8056
+       Masahiko Tsukamoto	           Tsutomu Terada	               	       145	   220	   197	     0	0.6591	0.7360	0.0000	0.6591	0.7360
+            Ignacio Rojas	            Hctor Pomares	               	       144	   221	   192	     0	0.6516	0.7500	0.0000	0.6516	0.7500
+           Suzette McLeod	              John McLeod	               	       143	   144	   164	     0	0.9931	0.8720	0.0000	0.8720	0.9931
+Carlos Miguel Tavares Calafate	           Pietro Manzoni	               	       143	   151	   322	     0	0.9470	0.4441	0.0000	0.4441	0.9470
+           Daniele Riccio	           Antonio Iodice	               	       143	   167	   159	     0	0.8563	0.8994	0.0000	0.8563	0.8994
+           Giovanni Vigna	      Christopher Kruegel	               	       143	   237	   206	     0	0.6034	0.6942	0.0000	0.6034	0.6942
+          Janne Riihijrvi	              Petri Mhnen	               	       142	   166	   345	     0	0.8554	0.4116	0.0000	0.4116	0.8554
+     Michael O'Neill 0001	         Anthony Brabazon	               	       142	   277	   169	     0	0.5126	0.8402	0.0000	0.5126	0.8402
+         Vincenzo Moscato	       Antonio Picariello	               	       142	   169	   209	     0	0.8402	0.6794	0.0000	0.6794	0.8402
+            Caiming Xiong	           Richard Socher	               	       142	   217	   213	     0	0.6544	0.6667	0.0000	0.6544	0.6667
+          Stefano Ferilli	        Floriana Esposito	               	       142	   233	   340	     0	0.6094	0.4176	0.0000	0.4176	0.6094
+        Takayuki Kitasaka	             Kensaku Mori	               	       141	   142	   295	     0	0.9930	0.4780	0.0000	0.4780	0.9930
+               Luca Aceto	         Anna Inglfsdttir	               	       141	   236	   158	     0	0.5975	0.8924	0.0000	0.5975	0.8924
+               Ichiro Ide	           Hiroshi Murase	               	       141	   181	   254	     0	0.7790	0.5551	0.0000	0.5551	0.7790
+                Qinghe Du	                Pinyi Ren	               	       141	   195	   254	     0	0.7231	0.5551	0.0000	0.5551	0.7231
+       Hirozumi Yamaguchi	          Teruo Higashino	               	       140	   160	   274	     0	0.8750	0.5109	0.0000	0.5109	0.8750
+             Hui Gao 0001	                Tiejun Lv	               	       140	   169	   286	     0	0.8284	0.4895	0.0000	0.4895	0.8284
+        Masahiro Morikura	            Koji Yamamoto	               	       140	   192	   247	     0	0.7292	0.5668	0.0000	0.5668	0.7292
+       Jerry Chun-Wei Lin	  Philippe Fournier-Viger	               	       140	   263	   267	     0	0.5323	0.5243	0.0000	0.5243	0.5323
+               Umar Qasim	          Zahoor Ali Khan	               	       139	   151	   324	     0	0.9205	0.4290	0.0000	0.4290	0.9205
+          Lucio Marcenaro	       Carlo S. Regazzoni	               	       139	   158	   314	     0	0.8797	0.4427	0.0000	0.4427	0.8797
+            Shuigeng Zhou	              Jihong Guan	               	       139	   276	   186	     0	0.5036	0.7473	0.0000	0.5036	0.7473
+         Xiang Cheng 0001	        Liuqing Yang 0001	               	       139	   228	   285	     0	0.6096	0.4877	0.0000	0.4877	0.6096
+              Dhruv Batra	              Devi Parikh	               	       139	   231	   254	     0	0.6017	0.5472	0.0000	0.5472	0.6017
+             Gudula Rnger	            Thomas Rauber	               	       138	   224	   215	     0	0.6161	0.6419	0.0000	0.6161	0.6419
+          Hong Zhang 0001	           Chao Wang 0004	               	       137	   141	   142	     0	0.9716	0.9648	0.0000	0.9648	0.9716
+          Cheng Wang 0003	         Jonathan Li 0001	               	       137	   164	   251	     0	0.8354	0.5458	0.0000	0.5458	0.8354
+          George R. Thoma	         Sameer K. Antani	               	       137	   238	   238	     0	0.5756	0.5756	0.0000	0.5756	0.5756
+             Hong Ji 0001	               Xi Li 0004	               	       136	   211	   138	     0	0.6445	0.9855	0.0000	0.6445	0.9855
+             Takeshi Hara	      Hiroshi Fujita 0001	               	       136	   139	   193	     0	0.9784	0.7047	0.0000	0.7047	0.9784
+              Marco Baldi	        Franco Chiaraluce	               	       136	   166	   163	     0	0.8193	0.8344	0.0000	0.8193	0.8344
+             Tiejun Huang	       Yonghong Tian 0001	               	       136	   278	   227	     0	0.4892	0.5991	0.0000	0.4892	0.5991
+            Reza Nejabati	       Dimitra Simeonidou	               	       135	   142	   226	     0	0.9507	0.5973	0.0000	0.5973	0.9507
+         Jos Machado 0001	            Antnio Abelha	               	       135	   167	   147	     0	0.8084	0.9184	0.0000	0.8084	0.9184
+             Maria Ganzha	         Marcin Paprzycki	               	       135	   148	   248	     0	0.9122	0.5444	0.0000	0.5444	0.9122
+        Slawomir Zadrozny	          Janusz Kacprzyk	               	       135	   159	   289	     0	0.8491	0.4671	0.0000	0.4671	0.8491
+        Yiannis Aloimonos	        Cornelia Fermller	               	       135	   223	   173	     0	0.6054	0.7803	0.0000	0.6054	0.7803
+               Xipeng Qiu	           Xuanjing Huang	               	       135	   190	   301	     0	0.7105	0.4485	0.0000	0.4485	0.7105
+          Roman Slowinski	          Salvatore Greco	               	       135	   252	   196	     0	0.5357	0.6888	0.0000	0.5357	0.6888
+     Francisco J. Cazorla	             Jaume Abella	               	       135	   210	   204	     0	0.6429	0.6618	0.0000	0.6429	0.6618
+            Kang Liu 0001	            Jun Zhao 0001	               	       134	   140	   186	     0	0.9571	0.7204	0.0000	0.7204	0.9571
+           Liang Gao 0001	            Xinyu Li 0001	               	       134	   272	   141	     0	0.4926	0.9504	0.0000	0.4926	0.9504
+              Xuehai Zhou	           Chao Wang 0003	               	       134	   194	   150	     0	0.6907	0.8933	0.0000	0.6907	0.8933
+               Ali Chehab	          Ayman I. Kayssi	               	       134	   229	   165	     0	0.5852	0.8121	0.0000	0.5852	0.8121
+            Adrin Cristal	           Osman S. Unsal	               	       134	   183	   178	     0	0.7322	0.7528	0.0000	0.7322	0.7528
+           Donato Malerba	        Michelangelo Ceci	               	       134	   303	   180	     0	0.4422	0.7444	0.0000	0.4422	0.7444
+             Jol Ouaknine	       James Worrell 0001	               	       134	   187	   212	     0	0.7166	0.6321	0.0000	0.6321	0.7166
+         Jean-Luc Gauvain	               Lori Lamel	               	       134	   202	   223	     0	0.6634	0.6009	0.0000	0.6009	0.6634
+             Jerzy Tyszer	            Janusz Rajski	               	       133	   140	   268	     0	0.9500	0.4963	0.0000	0.4963	0.9500
+          Vijay Gadepally	            Jeremy Kepner	               	       133	   171	   217	     0	0.7778	0.6129	0.0000	0.6129	0.7778
+          Eiichiro Sumita	            Masao Utiyama	               	       133	   321	   182	     0	0.4143	0.7308	0.0000	0.4143	0.7308
+              Yasuaki Ito	              Koji Nakano	               	       132	   140	   272	     0	0.9429	0.4853	0.0000	0.4853	0.9429
+            Syoji Kobashi	              Yutaka Hata	               	       132	   180	   245	     0	0.7333	0.5388	0.0000	0.5388	0.7333
+           Nikolay Shilov	Alexander V. Smirnov 0001	               	       131	   156	   224	     0	0.8397	0.5848	0.0000	0.5848	0.8397
+        Keisuke Kinoshita	        Tomohiro Nakatani	               	       131	   157	   285	     0	0.8344	0.4596	0.0000	0.4596	0.8344
+             Jun Sun 0001	            Jin Song Dong	               	       131	   260	   249	     0	0.5038	0.5261	0.0000	0.5038	0.5261
+        Saraju P. Mohanty	          Elias Kougianos	               	       130	   313	   133	     0	0.4153	0.9774	0.0000	0.4153	0.9774
+         Juan-Carlos Cano	Carlos Miguel Tavares Calafate	               	       130	   303	   151	     0	0.4290	0.8609	0.0000	0.4290	0.8609
+     Manuel Montes-y-Gmez	    Luis Villaseor Pineda	               	       130	   251	   161	     0	0.5179	0.8075	0.0000	0.5179	0.8075
+      Patrick Girard 0001	   Serge Pravossoudovitch	               	       129	   251	   133	     0	0.5139	0.9699	0.0000	0.5139	0.9699
+Jos Francisco Martnez Trinidad	Jess Ariel Carrasco-Ochoa	               	       129	   145	   172	     0	0.8897	0.7500	0.0000	0.7500	0.8897
+           Chunxiao Jiang	            Yong Ren 0001	               	       129	   315	   159	     0	0.4095	0.8113	0.0000	0.4095	0.8113
+                Anup Basu	         Irene Cheng 0001	               	       129	   257	   192	     0	0.5019	0.6719	0.0000	0.5019	0.6719
+           Ruben Verborgh	             Erik Mannens	               	       129	   227	   211	     0	0.5683	0.6114	0.0000	0.5683	0.6114
+              Paola Mello	            Evelina Lamma	               	       129	   211	   233	     0	0.6114	0.5536	0.0000	0.5536	0.6114
+     Michael M. Bronstein	   Alexander M. Bronstein	               	       129	   244	   235	     0	0.5287	0.5489	0.0000	0.5287	0.5489
+          Massimo Villari	          Antonio Celesti	               	       128	   205	   141	     0	0.6244	0.9078	0.0000	0.6244	0.9078
+          Elena Mugellini	         Omar Abou Khaled	               	       128	   141	   143	     0	0.9078	0.8951	0.0000	0.8951	0.9078
+               Min-You Wu	                  Wei Shu	               	       128	   243	   169	     0	0.5267	0.7574	0.0000	0.5267	0.7574
+          Xiaofei He 0001	            Deng Cai 0001	               	       128	   218	   278	     0	0.5872	0.4604	0.0000	0.4604	0.5872
+         Yongming Li 0002	           Shaocheng Tong	               	       126	   135	   278	     0	0.9333	0.4532	0.0000	0.4532	0.9333
+              Hongfei Lin	              Zhihao Yang	               	       126	   277	   135	     0	0.4549	0.9333	0.0000	0.4549	0.9333
+  Juan Manuel Snchez-Prez	 Juan Antonio Gmez Pulido	               	       126	   137	   181	     0	0.9197	0.6961	0.0000	0.6961	0.9197
+        George Mastorakis	Constandinos X. Mavromoustakis	               	       126	   147	   181	     0	0.8571	0.6961	0.0000	0.6961	0.8571
+               Yanyan Lan	              Jiafeng Guo	               	       126	   151	   199	     0	0.8344	0.6332	0.0000	0.6332	0.8344
+   Pedro Antonio Gutirrez	       Csar Hervs-Martnez	               	       126	   154	   196	     0	0.8182	0.6429	0.0000	0.6429	0.8182
+           Olivier Pivert	             Patrick Bosc	               	       126	   218	   161	     0	0.5780	0.7826	0.0000	0.5780	0.7826
+  Taisir E. H. El-Gorashi	  Jaafar M. H. Elmirghani	               	       125	   128	   311	     0	0.9766	0.4019	0.0000	0.4019	0.9766
+              Mario Vento	          Pasquale Foggia	               	       125	   247	   128	     0	0.5061	0.9766	0.0000	0.5061	0.9766
+         Hernn E. Aguirre	           Kiyoshi Tanaka	               	       125	   130	   177	     0	0.9615	0.7062	0.0000	0.7062	0.9615
+            Franjo Pernus	            Bostjan Likar	               	       125	   145	   132	     0	0.8621	0.9470	0.0000	0.8621	0.9470
+         Benno Stein 0001	          Martin Potthast	               	       125	   296	   160	     0	0.4223	0.7812	0.0000	0.4223	0.7812
+           Chengqing Zong	             Jiajun Zhang	               	       125	   243	   172	     0	0.5144	0.7267	0.0000	0.5144	0.7267
+             Tadashi Dohi	         Hiroyuki Okamura	               	       123	   226	   125	     0	0.5442	0.9840	0.0000	0.5442	0.9840
+          Gerhard Wellein	              Georg Hager	               	       123	   142	   146	     0	0.8662	0.8425	0.0000	0.8425	0.8662
+         Florent Krzakala	           Lenka Zdeborov	               	       123	   183	   168	     0	0.6721	0.7321	0.0000	0.6721	0.7321
+            Ahmed Alsaedi	            Tasawar Hayat	               	       123	   210	   261	     0	0.5857	0.4713	0.0000	0.4713	0.5857
+               Qi Qi 0001	         Jingyu Wang 0001	               	       122	   131	   159	     0	0.9313	0.7673	0.0000	0.7673	0.9313
+             Eun-Jun Yoon	            Kee-Young Yoo	               	       122	   136	   268	     0	0.8971	0.4552	0.0000	0.4552	0.8971
+              Xuehai Zhou	               Xi Li 0003	               	       122	   194	   137	     0	0.6289	0.8905	0.0000	0.6289	0.8905
+         Juan-Carlos Cano	       Carlos T. Calafate	               	       122	   303	   142	     0	0.4026	0.8592	0.0000	0.4026	0.8592
+     Jos Juan Pazos-Arias	         Martn Lpez Nores	               	       122	   175	   147	     0	0.6971	0.8299	0.0000	0.6971	0.8299
+   Anastasios D. Doulamis	     Nikolaos D. Doulamis	               	       122	   253	   170	     0	0.4822	0.7176	0.0000	0.4822	0.7176
+      Patrick Girard 0001	            Alberto Bosio	               	       122	   251	   186	     0	0.4861	0.6559	0.0000	0.4861	0.6559
+               Cesar Sann	       Edward Szczerbicki	               	       121	   122	   191	     0	0.9918	0.6335	0.0000	0.6335	0.9918
+           Yoshiki Kawata	              Noboru Niki	               	       121	   122	   166	     0	0.9918	0.7289	0.0000	0.7289	0.9918
+             Jianxin Liao	         Jingyu Wang 0001	               	       121	   172	   159	     0	0.7035	0.7610	0.0000	0.7035	0.7610
+                Cong Tian	             Zhenhua Duan	               	       120	   130	   178	     0	0.9231	0.6742	0.0000	0.6742	0.9231
+      Honggang Zhang 0001	             Zhifeng Zhao	               	       120	   183	   138	     0	0.6557	0.8696	0.0000	0.6557	0.8696
+          Yasuhisa Hirata	          Kazuhiro Kosuge	               	       120	   141	   278	     0	0.8511	0.4317	0.0000	0.4317	0.8511
+          Philippe Wenger	           Damien Chablat	               	       120	   143	   242	     0	0.8392	0.4959	0.0000	0.4959	0.8392
+             Yo Kobayashi	       Masakatsu G. Fujie	               	       119	   124	   206	     0	0.9597	0.5777	0.0000	0.5777	0.9597
+            Concha Bielza	           Pedro Larraaga	               	       119	   139	   242	     0	0.8561	0.4917	0.0000	0.4917	0.8561
+       Alberto Pettorossi	        Maurizio Proietti	               	       119	   159	   142	     0	0.7484	0.8380	0.0000	0.7484	0.8380
+             Jianhua Feng	         Guoliang Li 0001	               	       119	   176	   259	     0	0.6761	0.4595	0.0000	0.4595	0.6761
+            Nader Mohamed	       Jameela Al-Jaroodi	               	       118	   160	   129	     0	0.7375	0.9147	0.0000	0.7375	0.9147
+         Takayasu Sakurai	          Makoto Takamiya	               	       118	   190	   132	     0	0.6211	0.8939	0.0000	0.6211	0.8939
+        Alessandra Lumini	              Loris Nanni	               	       118	   150	   193	     0	0.7867	0.6114	0.0000	0.6114	0.7867
+           Arnaud Virazel	            Alberto Bosio	               	       118	   169	   186	     0	0.6982	0.6344	0.0000	0.6344	0.6982
+            Pasquale Lops	          Marco de Gemmis	               	       117	   195	   145	     0	0.6000	0.8069	0.0000	0.6000	0.8069
+         Valentin Cristea	               Florin Pop	               	       117	   195	   241	     0	0.6000	0.4855	0.0000	0.4855	0.6000
+             Ying-Dar Lin	           Yuan-Cheng Lai	               	       117	   230	   196	     0	0.5087	0.5969	0.0000	0.5087	0.5969
+              Maria Fazio	          Massimo Villari	               	       116	   136	   205	     0	0.8529	0.5659	0.0000	0.5659	0.8529
+            Mattia Frasca	            Luigi Fortuna	               	       116	   138	   226	     0	0.8406	0.5133	0.0000	0.5133	0.8406
+             Minlie Huang	         Xiaoyan Zhu 0001	               	       116	   199	   138	     0	0.5829	0.8406	0.0000	0.5829	0.8406
+        Masahiro Morikura	          Takayuki Nishio	               	       116	   192	   141	     0	0.6042	0.8227	0.0000	0.6042	0.8227
+          Takayuki Nishio	            Koji Yamamoto	               	       116	   141	   247	     0	0.8227	0.4696	0.0000	0.4696	0.8227
+        Masahiro Morikura	          Takayuki Nishio	  Koji Yamamoto	       116	   192	   141	   247	0.6042	0.8227	0.4696	0.4696	0.8227
+    Ramn Gonzlez Carvajal	      Jaime Ramrez-Angulo	               	       116	   148	   205	     0	0.7838	0.5659	0.0000	0.5659	0.7838
+            Marc Delcroix	        Tomohiro Nakatani	               	       116	   153	   285	     0	0.7582	0.4070	0.0000	0.4070	0.7582
+         Christian Steger	           Reinhold Weiss	               	       116	   226	   156	     0	0.5133	0.7436	0.0000	0.5133	0.7436
+      Jaime Ramrez-Angulo	    Antonio J. Lpez-Martn	               	       116	   205	   159	     0	0.5659	0.7296	0.0000	0.5659	0.7296
+      Patrick Girard 0001	           Arnaud Virazel	  Alberto Bosio	       116	   251	   169	   186	0.4622	0.6864	0.6237	0.4622	0.6864
+         Roberto Scopigno	            Paolo Cignoni	               	       116	   239	   170	     0	0.4854	0.6824	0.0000	0.4854	0.6824
+              Kris Luyten	             Karin Coninx	               	       116	   172	   205	     0	0.6744	0.5659	0.0000	0.5659	0.6744
+        Timothy F. Cootes	Christopher J. Taylor 0001	               	       116	   200	   248	     0	0.5800	0.4677	0.0000	0.4677	0.5800
+           Matteo Baldoni	        Cristina Baroglio	               	       115	   151	   125	     0	0.7616	0.9200	0.0000	0.7616	0.9200
+          Yong Zhang 0002	            Chunxiao Xing	               	       115	   132	   196	     0	0.8712	0.5867	0.0000	0.5867	0.8712
+            Elena Ferrari	        Barbara Carminati	               	       115	   270	   141	     0	0.4259	0.8156	0.0000	0.4259	0.8156
+            Jun Yang 0002	             Youtao Zhang	               	       115	   155	   171	     0	0.7419	0.6725	0.0000	0.6725	0.7419
+ Giovanni Maria Farinella	      Sebastiano Battiato	               	       115	   165	   245	     0	0.6970	0.4694	0.0000	0.4694	0.6970
+       Juan R. Torregrosa	           Alicia Cordero	               	       114	   134	   116	     0	0.8507	0.9828	0.0000	0.8507	0.9828
+        Yoshihiko Nankaku	           Keiichi Tokuda	               	       114	   117	   246	     0	0.9744	0.4634	0.0000	0.4634	0.9744
+       Vincenza Carchiolo	          Michele Malgeri	               	       114	   132	   120	     0	0.8636	0.9500	0.0000	0.8636	0.9500
+          Teruhisa Hochin	            Hiroki Nomiya	               	       114	   146	   120	     0	0.7808	0.9500	0.0000	0.7808	0.9500
+         Satoshi Tadokoro	            Masashi Konyo	               	       114	   283	   128	     0	0.4028	0.8906	0.0000	0.4028	0.8906
+        Bram Vanderborght	             Dirk Lefeber	               	       114	   194	   130	     0	0.5876	0.8769	0.0000	0.5876	0.8769
+         Cristina Silvano	         Gianluca Palermo	               	       114	   165	   160	     0	0.6909	0.7125	0.0000	0.6909	0.7125
+         Dilek Hakkani-Tr	                 Gkhan Tr	               	       114	   257	   161	     0	0.4436	0.7081	0.0000	0.4436	0.7081
+          Valerio Vignoli	                 Ada Fort	               	       113	   128	   120	     0	0.8828	0.9417	0.0000	0.8828	0.9417
+          Kurt Debattista	            Alan Chalmers	               	       113	   141	   241	     0	0.8014	0.4689	0.0000	0.4689	0.8014
+            Tomomasa Sato	           Taketoshi Mori	               	       113	   186	   141	     0	0.6075	0.8014	0.0000	0.6075	0.8014
+           Ramon Casellas	                Raul Muoz	               	       113	   151	   142	     0	0.7483	0.7958	0.0000	0.7483	0.7958
+        Jordi Prez-Romero	               Ramn Agust	               	       113	   196	   144	     0	0.5765	0.7847	0.0000	0.5765	0.7847
+            Oriol Sallent	               Ramn Agust	               	       113	   185	   144	     0	0.6108	0.7847	0.0000	0.6108	0.7847
+          Mario Cannataro	       Pietro Hiram Guzzi	               	       113	   230	   166	     0	0.4913	0.6807	0.0000	0.4913	0.6807
+               Jan Platos	              Pavel Krmer	               	       113	   189	   190	     0	0.5979	0.5947	0.0000	0.5947	0.5979
+  Yolanda Blanco-Fernndez	         Martn Lpez Nores	               	       112	   117	   147	     0	0.9573	0.7619	0.0000	0.7619	0.9573
+              Tiago Pinto	             Zita A. Vale	               	       112	   123	   250	     0	0.9106	0.4480	0.0000	0.4480	0.9106
+           Kiyotaka Izumi	           Keigo Watanabe	               	       112	   132	   262	     0	0.8485	0.4275	0.0000	0.4275	0.8485
+                 Yici Cai	          Qiang Zhou 0001	               	       112	   239	   154	     0	0.4686	0.7273	0.0000	0.4686	0.7273
+         Toms Lozano-Prez	    Leslie Pack Kaelbling	               	       112	   167	   253	     0	0.6707	0.4427	0.0000	0.4427	0.6707
+  Bernab Linares-Barranco	Teresa Serrano-Gotarredona	               	       111	   139	   119	     0	0.7986	0.9328	0.0000	0.7986	0.9328
+             Changxin Gao	                Nong Sang	               	       111	   122	   200	     0	0.9098	0.5550	0.0000	0.5550	0.9098
+   Flvia Coimbra Delicato	           Paulo F. Pires	               	       111	   151	   126	     0	0.7351	0.8810	0.0000	0.7351	0.8810
+Georgios I. Papadimitriou	    Andreas S. Pomportsis	               	       111	   216	   133	     0	0.5139	0.8346	0.0000	0.5139	0.8346
+         Emanuele Viterbo	             Yi Hong 0001	               	       111	   254	   145	     0	0.4370	0.7655	0.0000	0.4370	0.7655
+                Dian Zhou	           Xuan Zeng 0001	               	       111	   164	   192	     0	0.6768	0.5781	0.0000	0.5781	0.6768
+            Mounir Ghogho	      Desmond C. McLernon	               	       111	   246	   173	     0	0.4512	0.6416	0.0000	0.4512	0.6416
+      Andrs Iglesias 0001	              Akemi Glvez	               	       110	   155	   114	     0	0.7097	0.9649	0.0000	0.7097	0.9649
+             Jae-Yoon Sim	           Hong-June Park	               	       110	   133	   115	     0	0.8271	0.9565	0.0000	0.8271	0.9565
+          Norman W. Paton	   Alvaro A. A. Fernandes	               	       110	   267	   134	     0	0.4120	0.8209	0.0000	0.4120	0.8209
+          Daisuke Deguchi	           Hiroshi Murase	               	       110	   134	   254	     0	0.8209	0.4331	0.0000	0.4331	0.8209
+           L. Rodney Long	         Sameer K. Antani	               	       110	   142	   238	     0	0.7746	0.4622	0.0000	0.4622	0.7746
+          Ricardo Martnez	                Raul Muoz	               	       110	   154	   142	     0	0.7143	0.7746	0.0000	0.7143	0.7746
+          Atsushi Shimada	     Rin-Ichiro Taniguchi	               	       110	   159	   233	     0	0.6918	0.4721	0.0000	0.4721	0.6918
+                Jaan Raik	             Raimund Ubar	               	       110	   177	   169	     0	0.6215	0.6509	0.0000	0.6215	0.6509
+          Peter Schelkens	     Adrian Munteanu 0001	               	       110	   177	   198	     0	0.6215	0.5556	0.0000	0.5556	0.6215
+        Wenjie Zhang 0001	          Ying Zhang 0001	               	       110	   195	   178	     0	0.5641	0.6180	0.0000	0.5641	0.6180
+             Jan Ehrhardt	            Heinz Handels	               	       109	   116	   239	     0	0.9397	0.4561	0.0000	0.4561	0.9397
+               Depei Qian	            Zhongzhi Luan	               	       109	   257	   128	     0	0.4241	0.8516	0.0000	0.4241	0.8516
+            Olivier Teste	             Franck Ravat	               	       109	   175	   130	     0	0.6229	0.8385	0.0000	0.6229	0.8385
+               Ichiro Ide	          Daisuke Deguchi	               	       109	   181	   134	     0	0.6022	0.8134	0.0000	0.6022	0.8134
+               Ichiro Ide	          Daisuke Deguchi	 Hiroshi Murase	       109	   181	   134	   254	0.6022	0.8134	0.4291	0.4291	0.8134
+           Keith W. Hipel	          D. Marc Kilgour	               	       109	   209	   137	     0	0.5215	0.7956	0.0000	0.5215	0.7956
+           Chao Wang 0003	               Xi Li 0003	               	       109	   150	   137	     0	0.7267	0.7956	0.0000	0.7267	0.7956
+             Xinjun Sheng	            Xiangyang Zhu	               	       109	   139	   196	     0	0.7842	0.5561	0.0000	0.5561	0.7842
+  Paschalis C. Sofotasios	            Sami Muhaidat	               	       109	   174	   239	     0	0.6264	0.4561	0.0000	0.4561	0.6264
+            Augusto Sarti	          Fabio Antonacci	               	       108	   241	   113	     0	0.4481	0.9558	0.0000	0.4481	0.9558
+         Hironobu Ohmatsu	              Noboru Niki	               	       108	   115	   166	     0	0.9391	0.6506	0.0000	0.6506	0.9391
+           Ricard Vilalta	           Ramon Casellas	               	       108	   124	   151	     0	0.8710	0.7152	0.0000	0.7152	0.8710
+           Jie Zhang 0006	              Yongli Zhao	               	       108	   165	   126	     0	0.6545	0.8571	0.0000	0.6545	0.8571
+            Xin Peng 0001	              Wenyun Zhao	               	       108	   147	   131	     0	0.7347	0.8244	0.0000	0.7347	0.8244
+          Ricardo Martnez	           Ramon Casellas	               	       108	   154	   151	     0	0.7013	0.7152	0.0000	0.7013	0.7152
+            Fuzhen Zhuang	             Qing He 0003	               	       108	   169	   180	     0	0.6391	0.6000	0.0000	0.6000	0.6391
+         Patrizia Grifoni	           Fernando Ferri	               	       107	   112	   125	     0	0.9554	0.8560	0.0000	0.8560	0.9554
+         Bradford W. Mott	          James C. Lester	               	       107	   112	   253	     0	0.9554	0.4229	0.0000	0.4229	0.9554
+        Mohamed N. Nounou	          Hazem N. Nounou	               	       107	   117	   119	     0	0.9145	0.8992	0.0000	0.8992	0.9145
+              Ben Y. Zhao	        Haitao Zheng 0001	               	       107	   198	   122	     0	0.5404	0.8770	0.0000	0.5404	0.8770
+       Francesco Bellotti	     Alessandro De Gloria	               	       107	   129	   176	     0	0.8295	0.6080	0.0000	0.6080	0.8295
+          Donald D. Cowan	      Paulo S. C. Alencar	               	       107	   161	   141	     0	0.6646	0.7589	0.0000	0.6646	0.7589
+      Alessandra Flammini	            Paolo Ferrari	               	       107	   161	   146	     0	0.6646	0.7329	0.0000	0.6646	0.7329
+    Pierfrancesco Bellini	               Paolo Nesi	               	       106	   108	   209	     0	0.9815	0.5072	0.0000	0.5072	0.9815
+          Richard J. Duro	         Francisco Bellas	               	       106	   198	   111	     0	0.5354	0.9550	0.0000	0.5354	0.9550
+       Marie-Lise Flottes	           Bruno Rouzeyre	               	       106	   121	   117	     0	0.8760	0.9060	0.0000	0.8760	0.9060
+          Claudia d'Amato	           Nicola Fanizzi	               	       106	   127	   150	     0	0.8346	0.7067	0.0000	0.7067	0.8346
+               Lianru Gao	          Bing Zhang 0001	               	       106	   127	   200	     0	0.8346	0.5300	0.0000	0.5300	0.8346
+          Katsuhiro Honda	       Hidetomo Ichihashi	               	       106	   197	   134	     0	0.5381	0.7910	0.0000	0.5381	0.7910
+              Yoji Yamada	            Shogo Okamoto	               	       106	   173	   137	     0	0.6127	0.7737	0.0000	0.6127	0.7737
+         Tanja Lange 0001	      Daniel J. Bernstein	               	       106	   170	   176	     0	0.6235	0.6023	0.0000	0.6023	0.6235
+             James Geller	            Yehoshua Perl	               	       106	   196	   182	     0	0.5408	0.5824	0.0000	0.5408	0.5824
+        Haiying Wang 0001	              Huiru Zheng	               	       105	   123	   182	     0	0.8537	0.5769	0.0000	0.5769	0.8537
+           Ricard Vilalta	                Raul Muoz	               	       105	   124	   142	     0	0.8468	0.7394	0.0000	0.7394	0.8468
+             Niki Trigoni	           Andrew Markham	               	       105	   163	   125	     0	0.6442	0.8400	0.0000	0.6442	0.8400
+Georgios I. Papadimitriou	     Petros Nicopolitidis	               	       105	   216	   132	     0	0.4861	0.7955	0.0000	0.4861	0.7955
+              Xuehai Zhou	           Chao Wang 0003	     Xi Li 0003	       105	   194	   150	   137	0.5412	0.7000	0.7664	0.5412	0.7664
+          Giancarlo Succi	         Alberto Sillitti	               	       105	   261	   143	     0	0.4023	0.7343	0.0000	0.4023	0.7343
+       Jean-Franois Hlard	        Matthieu Crussire	               	       105	   189	   144	     0	0.5556	0.7292	0.0000	0.5556	0.7292
+             Hamid Sharif	           Michael Hempel	               	       104	   225	   107	     0	0.4622	0.9720	0.0000	0.4622	0.9720
+             Xinghao Ding	           Yue Huang 0001	               	       104	   142	   108	     0	0.7324	0.9630	0.0000	0.7324	0.9630
+        Noriyuki Moriyama	              Noboru Niki	               	       104	   111	   166	     0	0.9369	0.6265	0.0000	0.6265	0.9369
+              Rafal Kozik	            Michal Choras	               	       104	   116	   159	     0	0.8966	0.6541	0.0000	0.6541	0.8966
+       Xiaoguang Liu 0001	           Gang Wang 0001	               	       104	   124	   120	     0	0.8387	0.8667	0.0000	0.8387	0.8667
+         Robert Wang 0001	              Yunkai Deng	               	       104	   155	   123	     0	0.6710	0.8455	0.0000	0.6710	0.8455
+            Niki Pissinou	                Kia Makki	               	       104	   183	   128	     0	0.5683	0.8125	0.0000	0.5683	0.8125
+             Sung Ik Park	           Heung Mook Kim	               	       104	   132	   143	     0	0.7879	0.7273	0.0000	0.7273	0.7879
+        Jordi Prez-Romero	            Oriol Sallent	     Ramn Agust	       104	   196	   185	   144	0.5306	0.5622	0.7222	0.5306	0.7222
+              Marc Geilen	              Twan Basten	               	       104	   148	   211	     0	0.7027	0.4929	0.0000	0.4929	0.7027
+         Giuseppe Vizzari	         Stefania Bandini	               	       104	   170	   216	     0	0.6118	0.4815	0.0000	0.4815	0.6118
+            Kenichi Okada	          Akira Matsuzawa	               	       104	   194	   192	     0	0.5361	0.5417	0.0000	0.5361	0.5417
+           Jayaraj Joseph	Mohanasankar Sivaprakasam	               	       103	   109	   176	     0	0.9450	0.5852	0.0000	0.5852	0.9450
+        Dongyan Zhao 0001	             Rui Yan 0001	               	       103	   227	   114	     0	0.4537	0.9035	0.0000	0.4537	0.9035
+               Ali Saberi	      Anton A. Stoorvogel	               	       103	   164	   118	     0	0.6280	0.8729	0.0000	0.6280	0.8729
+             Li Shen 0001	         Andrew J. Saykin	               	       103	   162	   120	     0	0.6358	0.8583	0.0000	0.6358	0.8583
+            Gal Varoquaux	         Bertrand Thirion	               	       103	   146	   181	     0	0.7055	0.5691	0.0000	0.5691	0.7055
+         Hironobu Ohmatsu	             Kenji Eguchi	               	       102	   115	   106	     0	0.8870	0.9623	0.0000	0.8870	0.9623
+     Francesco Buccafurri	             Gianluca Lax	               	       102	   159	   109	     0	0.6415	0.9358	0.0000	0.6415	0.9358
+           Riccardo Berta	       Francesco Bellotti	               	       102	   111	   129	     0	0.9189	0.7907	0.0000	0.7907	0.9189
+             Paul Suetens	        Dirk Vandermeulen	               	       102	   222	   118	     0	0.4595	0.8644	0.0000	0.4595	0.8644
+          Gary Klein 0001	           James J. Jiang	               	       102	   120	   122	     0	0.8500	0.8361	0.0000	0.8361	0.8500
+           Bing Chen 0001	                Chong Lin	               	       102	   133	   163	     0	0.7669	0.6258	0.0000	0.6258	0.7669
+            Lionel Torres	        Gilles Sassatelli	               	       102	   193	   151	     0	0.5285	0.6755	0.0000	0.5285	0.6755
+              Qianhong Wu	                   Bo Qin	               	       102	   198	   169	     0	0.5152	0.6036	0.0000	0.5152	0.6036
+  Farookh Khadeer Hussain	     Omar Khadeer Hussain	               	       102	   248	   171	     0	0.4113	0.5965	0.0000	0.4113	0.5965
+             Mei-Hui Wang	          Chang-Shing Lee	               	       101	   105	   145	     0	0.9619	0.6966	0.0000	0.6966	0.9619
+        Hiroshi Kawaguchi	           Shintaro Izumi	               	       101	   195	   106	     0	0.5179	0.9528	0.0000	0.5179	0.9528
+           Shintaro Izumi	       Masahiko Yoshimoto	               	       101	   106	   186	     0	0.9528	0.5430	0.0000	0.5430	0.9528
+               Junyan Ren	              Fan Ye 0001	               	       101	   162	   107	     0	0.6235	0.9439	0.0000	0.6235	0.9439
+Sabrina De Capitani di Vimercati	             Sara Foresti	               	       101	   221	   111	     0	0.4570	0.9099	0.0000	0.4570	0.9099
+           Yang Song 0001	         Weidong Cai 0001	               	       101	   115	   190	     0	0.8783	0.5316	0.0000	0.5316	0.8783
+    Valeria De Antonellis	          Devis Bianchini	               	       101	   169	   120	     0	0.5976	0.8417	0.0000	0.5976	0.8417
+         Sebastiano Vigna	              Paolo Boldi	               	       101	   151	   139	     0	0.6689	0.7266	0.0000	0.6689	0.7266
+          Ricardo Martnez	           Ramon Casellas	      Raul Muoz	       101	   154	   151	   142	0.6558	0.6689	0.7113	0.6558	0.7113
+             Antonio Iera	         Giuseppe Araniti	               	       101	   237	   148	     0	0.4262	0.6824	0.0000	0.4262	0.6824
+             Gangyi Jiang	                Feng Shao	               	       101	   219	   148	     0	0.4612	0.6824	0.0000	0.4612	0.6824
+           Yaser Jararweh	        Mahmoud Al-Ayyoub	               	       101	   235	   151	     0	0.4298	0.6689	0.0000	0.4298	0.6689
+             John Makhoul	      Richard M. Schwartz	               	       101	   157	   224	     0	0.6433	0.4509	0.0000	0.4509	0.6433
+             A. A. Zaidan	             B. B. Zaidan	               	       100	   105	   103	     0	0.9524	0.9709	0.0000	0.9524	0.9709
+             Kenji Eguchi	              Noboru Niki	               	       100	   106	   166	     0	0.9434	0.6024	0.0000	0.6024	0.9434
+           Yoshinori Kuno	      Yoshinori Kobayashi	               	       100	   200	   111	     0	0.5000	0.9009	0.0000	0.5000	0.9009
+    Eric A. M. Klumperink	               Bram Nauta	               	       100	   112	   181	     0	0.8929	0.5525	0.0000	0.5525	0.8929
+              Jiajun Chen	            Shujian Huang	               	       100	   157	   112	     0	0.6369	0.8929	0.0000	0.6369	0.8929
+  Yolanda Blanco-Fernndez	     Jos Juan Pazos-Arias	               	       100	   117	   175	     0	0.8547	0.5714	0.0000	0.5714	0.8547
+             Sasko Ristov	             Marjan Gusev	               	       100	   119	   188	     0	0.8403	0.5319	0.0000	0.5319	0.8403
+            Chunheng Wang	              Baihua Xiao	               	       100	   129	   122	     0	0.7752	0.8197	0.0000	0.7752	0.8197
+             Zhengyuan Xu	           Chen Gong 0001	               	       100	   237	   131	     0	0.4219	0.7634	0.0000	0.4219	0.7634
